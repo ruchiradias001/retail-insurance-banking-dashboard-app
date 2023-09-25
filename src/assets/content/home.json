@@ -1,0 +1,14 @@
+{
+    "descriptions": {
+        "header": "This web application, developed by the John Keells IT Analytics and Business Intelligence Team, showcases at a glance how analytics and business intelligence can be used in retail, banking, and insurance vertical to make informed decisions. It provides a variety of features for data analysis and visualization, allowing organizations to gain informative insights. Designed specifically for the JKIT SAP Dare to Dream event, this application also showcases an audio enabled AI assistant able to help with any of your queries.",
+        "insurance": "The insurance industry is constantly evolving, and companies need to stay up to date with the latest trends and best practices to stay competitive. In this demonstaration we have a look at how analytics and business intelligence can give you this data driven edge.",
+        "retail": "Retail companies are alway looking to stay competitive and gain valuable insights into customer behavior, customer loyalty, market trends, and sales data. Use advanced analytics based managerial dashboards to forecast customer segmentation and market basket analysis. Optimize your supply chain and boost sales, while minimizing your operational costs and optimizing inventory management.",
+        "banking": "The banking industry is on the look out for optimizing their return on equity by gaining insights about customer information, account details, customer lifetime value and financial performance to give them a data driven edge. Advanced analytics can help banks make data-driven business decisions, enhance customer satisfaction, identify trends manage risks and improve overall performance."
+    },
+    "images": {
+        "header": "app.svg",
+        "insurance": "towing.svg",
+        "retail": "shopping.svg",
+        "banking": "saving.svg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": {
+        "main": "This web application highlights how retail companies looking to stay competitive and gain valuable insights into customer behavior, customer loyalty, market trends, and sales data can use business intelligence. Optimize your supply chain and boost sales, while minimizing your operational costs and optimizing inventory management.",
+        "dashboard": "This is a dashboard built for demand forecasting and actioning using Power BI. This dashboard can be used to optimize your supply chain, get insights about your stores, products, customer loyalty and minimize operational costs.",
+        "prediction": "Use advanced analytics based managerial dashboards to forecast customer segmentation and market basket analysis.",
+        "models": "Customer segmentation models based on the premise of finding differences among the customers’ behavior and patterns. These patterns are based on the demographical, geographical, psycho-graphical and behavioral aspects of your customers.",
+        "clv": ""
+    },
+    "images": {
+        "main": "shopping.svg",
+        "dashboard": "dashboard.svg",
+        "prediction": "analytics.svg"
+    }
+}

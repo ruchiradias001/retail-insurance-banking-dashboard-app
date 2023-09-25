@@ -1,0 +1,14 @@
+{
+    "descriptions": {
+        "main": "This web application highlights how analytics and business intelligence can be used for the banking industry, providing data analysis and visualization capabilities that allow banks to gain insights to make data-driven business decision. It also highlights how customer lifetime value (CLV) can be used to identify trends, manage risks, enhance customer satisfaction and improve overall performance.",
+        "dashboard": "This dashboard provides a visual overview of customer information, account details, customer lifetime value and financial performance of a bank which will provide insights for the management to make better business decision. These dashboards can be used to make informed business decisions.",
+        "prediction": "Predictive Analytics in the banking domain refers to the use of data analysis, statistical models, and machine learning algorithms to predict future events related to banking, such as loan defaults, credit card fraud, and customer behavior. The goal is to support risk management, improve decision making, and drive operational efficiency. The inputs used in banking predictions may include customer data, transaction data, credit history, and demographic information. Predictive models in banking are used in various applications, such as credit scoring, anti-money laundering, customer segmentation, and targeted marketing.",
+        "models": "These are machine learning models that bankers could use for use cases such as cross selling , next best product offer and assessing default risk etc.",
+        "clv": "Customer Lifetime Value prediction models provide a framework for understanding and predicting a future value of a customer to the bank. CLV predictions can help banks prioritize their marketing and customer service efforts, identify high-value customers, and allocate resources more effectively."
+    },
+    "images": {
+        "main": "saving.svg",
+        "dashboard": "dashboard.svg",
+        "prediction": "analytics.svg"
+    }
+}

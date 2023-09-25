@@ -1,0 +1,14 @@
+{
+    "descriptions": {
+        "main": "This web application highlights how analytics and business intelligence can be used by the insurance industry to get a better understanding of their customer base and anticipate customer needs, offering more tailored and personalized services. It demonstrates many usefeul features of insurance organizations to make decisions by helping data analysis and visualization capabilities.",
+        "dashboard": "A well-designed insurance dashboard provides a quick way to monitor key metrics and gain insights into your insurance business. It allows you to easily access and analyze large amounts of data in a visual format. You can quickly identify potential risks and opportunities and track the performance of your insurance products.",
+        "prediction": "Insurance prediction is the process of using data analysis, statistical models, and machine learning algorithms to predict future events related to insurance, such as claims, policy renewals, and policyholder behavior. The goal is to improve decision making and support actuarial calculations, underwriting, pricing, and risk management. The inputs used in insurance predictions may include historical data, demographic information, financial information, and external factors such as weather patterns and economic indicators.",
+        "models": "Insurance prediction models are statistical models that insurers use to predic future claims and assess risk.These models can be used to determine premiums, identify potential fraud, and make underwriting decisions.",
+        "clv": "Customer Lifetime Value prediction can help insurers to segment their customers and tailor pricing strategies and promotional activities to increase customer loyalty and maximize profits."
+    },
+    "images": {
+        "main": "towing.svg",
+        "dashboard": "dashboard.svg",
+        "prediction": "analytics.svg"
+    }
+}
